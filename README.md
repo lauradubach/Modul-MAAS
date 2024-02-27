@@ -29,5 +29,6 @@ KVM steht für Kernel-basierte virtuelle Machine
     • Bearbeitung eines Problems an mehreren Standorten
 
 **Cloud Service Modelle**
+![Cloud Service](https://github.com/lauradubach/Modul-MAAS/blob/dbfaaf46aa0675f37f8d8491fbab732729384a04/Cloud%20Service.png)
 
-
+![Model](https://github.com/lauradubach/Modul-MAAS/blob/dbfaaf46aa0675f37f8d8491fbab732729384a04/Cloud%20Service%20Modell.png)
